@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>First file</title>
+</head>
+<body>
+<table>
+<th>Name</th>
+<th>address</th>
+<th>father name</th>
+<tr>
+<td>abcd</td>
+<td>nit patna</td>
+<td>xyz</td>
+</tr>
+</table>
+</body>
+</html>
+
